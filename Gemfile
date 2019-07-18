@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'knife-solo', '0.7.0'
+gem 'knife-solo_data_bag', '2.1.0'
+gem 'berkshelf', '7.0.8'
+gem 'chef', '14.12.3'
